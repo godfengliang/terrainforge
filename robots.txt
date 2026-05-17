@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://terrainforge-3d.surge.sh/sitemap.xml
